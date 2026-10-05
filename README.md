@@ -1,1 +1,1 @@
-This is a repository used to document some solutions for machine learning problems.
+Collection of my solutions to my favorite Machine Learning problems.
