@@ -1,1 +1,1 @@
-Collection of my solutions to my favorite Machine Learning problems.
+Collection of my solutions to my favorite machine learning problems.
