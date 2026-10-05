@@ -1,0 +1,2 @@
+Problem from OBOIA (Brazilian Online AI Olympiad) 2026, by Ícaro Fróes.
+Original (Portuguese and English) and datasets: https://github.com/NOIC-IA/oboia/tree/main/oboia-2026/problem-3-impostor

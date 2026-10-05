@@ -1,0 +1,6 @@
+# The books (about 1.1 GB each) are downloaded by the notebooks from the NOIC-IA/oboia release.
+data/*.zip
+data/*.zip.part
+data/book/
+data/hidden/
+predictions.csv
