@@ -1,0 +1,3 @@
+Problem from IOAI 2026 (International Olympiad in Artificial Intelligence), Individual Contest, task 5.
+Original statement and code: https://github.com/IOAI-official/IOAI-2026/tree/main/Individual-Contest/5_Ghost_of_Machine
+Dataset: https://huggingface.co/datasets/IOAI-official/ioai-2026-ghost-of-the-machine
